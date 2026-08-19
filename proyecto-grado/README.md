@@ -1,4 +1,4 @@
-# Sistema de Monitoreo Ambiental Escolar
+# Sistema de Monitoreo
 
 ## Integrantes del Equipo
 * Estudiante:Luz Carbal
